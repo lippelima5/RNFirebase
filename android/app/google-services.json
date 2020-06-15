@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145830518701",
+    "firebase_url": "https://fire-chat-202006.firebaseio.com",
+    "project_id": "fire-chat-202006",
+    "storage_bucket": "fire-chat-202006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145830518701:android:27f3e6434ba7d0573b8b24",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145830518701-hndkmqbjdulnu61rv9jlcb5ie0ico923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJa2rwYoUXHKYBHH-nv_inEqHRj8DWBLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145830518701-hndkmqbjdulnu61rv9jlcb5ie0ico923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
